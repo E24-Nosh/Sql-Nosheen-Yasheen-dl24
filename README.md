@@ -1,1 +1,1 @@
-# Sql-Nosheen-Yasheen-dl24
+# Sql course
