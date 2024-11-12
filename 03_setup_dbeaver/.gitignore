@@ -1,0 +1,9 @@
+# dbeaver
+.dbeaver
+.project 
+
+# duckdb
+*.wal
+
+# mac
+.DS_Store 
